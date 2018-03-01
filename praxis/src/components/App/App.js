@@ -37,6 +37,7 @@ class App extends Component {
         <div className="heroes-list">
           {listHeroes}
         </div>
+        <h2>Enemies</h2>
         <div className="enemies-list">
           {listEnemies}
         </div>
